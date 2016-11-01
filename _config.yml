@@ -1,17 +1,16 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://markvillar.github.io/
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: The Living God Church
+email: tlgcweb@tlg-church.com
+description: "The Living God Church Website"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Joseph Pascual
   pic: 1
-  position: Lead Designer
+  position: TLGC Senior Pastor
   social:
     - title: twitter
       url: #
@@ -20,9 +19,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Jen Mendoze
   pic: 2
-  position: Lead Marketer
+  position: TLGC London Pastor
   social:
     - title: twitter
       url: #
@@ -31,9 +30,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Angelita Mamauag
   pic: 3
-  position: Lead Developer
+  position: TLGC Edinburgh Pastor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Romel Dano
+  pic: 3
+  position: TLGC Southampton Pastor
   social:
     - title: twitter
       url: #
@@ -45,20 +55,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/tlgchurchuk
   - title: facebook
-    url:
+    url: https://www.facebook.com/TLGC777
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #http://stackoverflow.com/questions/tagged/tlgc
+  - title: bitbucket
+    url: #http://bitbucket.org/tlgc
   - title: github
-    url: http://github.com/jekyll
+    url: #http://github.com/TLGC
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: St. Gabriel's Church
+  - line: Tewkesbury Cl, Basingstoke RG24 9DU
 
 # Build settings
 markdown: kramdown
