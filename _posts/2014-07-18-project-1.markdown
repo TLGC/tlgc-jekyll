@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Basingstoke
+subtitle: The Living God Church Basingstoke
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2009-04-16
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2009
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
----
+category: Church
+description: The Living God Church was established on the 26th of April 2009 in a small town of Hampshire.

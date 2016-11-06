@@ -1,5 +1,5 @@
 url: https://markvillar.github.io/
-baseurl: 
+baseurl:
 
 # Site settings
 title: The Living God Church
@@ -9,8 +9,8 @@ description: "The Living God Church Website"
 # Team names, titles and social links
 people:
 - name: Joseph Pascual
-  pic: 1
-  position: TLGC Senior Pastor
+  pic: p
+  position: Senior Pastor - TLGC United Kingdom and Philippines
   social:
     - title: twitter
       url: #
@@ -19,9 +19,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Jen Mendoze
-  pic: 2
-  position: TLGC London Pastor
+- name: Gen Mendoza
+  pic: p
+  position: Pastor - TLGC London
   social:
     - title: twitter
       url: #
@@ -30,9 +30,97 @@ people:
     - title: linkedin
       url: #
 
-- name: Angelita Mamauag
-  pic: 3
-  position: TLGC Edinburgh Pastor
+- name: Angie Mamauag
+  pic: p
+  position: Pastor - TLGC Edinburgh
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Neil Nobleza
+  pic: p
+  position: Associate Pastor - TLGC Edinburgh
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Bob Manlapaz
+  pic: p
+  position: Associate Pastor - TLGC Edinburgh
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Joseph Mamauag
+  pic: p
+  position: Associate Pastor - TLGC Edinburgh
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Sol Soriano
+  pic: p
+  position: Pastor - TLGC Glasgow
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Sam Sotes
+  pic: p
+  position: Pastor - TLGC Aberdeen
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Rowell Lalacsan
+  pic: p
+  position: Associate Pastor - TLGC Aberdeen
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Jomar Marcuap
+  pic: p
+  position: Pastor - TLGC Sariaya, Interim Pastor - TLGC Quezon City
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Braulio Tolentino
+  pic: p
+  position: Pastor - TLGC Camiling
   social:
     - title: twitter
       url: #
@@ -42,8 +130,8 @@ people:
       url: #
 
 - name: Romel Dano
-  pic: 3
-  position: TLGC Southampton Pastor
+  pic: p
+  position: Pastor - TLGC Southampton
   social:
     - title: twitter
       url: #
@@ -52,6 +140,27 @@ people:
     - title: google-plus
       url: #
 
+- name: Eugene Badilles
+  pic: p
+  position: Co-ordinator - Davao and Kidapawan Outreaches
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Edwin Badilles
+  pic: p
+  position: Co-ordinator - Davao and Kidapawan Outreaches
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
