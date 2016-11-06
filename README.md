@@ -1,11 +1,9 @@
-Agency Jekyll theme
+The Living God Church
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+The Living God Church Website Codebase
 
-# How to use
-
-###Portfolio 
+###Portfolio
 
 Portfolio projects are in '/_posts'
 
@@ -15,16 +13,16 @@ Images are in '/img/portfolio'
 
 Images are in '/img/about/'
 
-###Team
+###Pastors
 
-Team members and info are in '_config.yml'
+Pastors and info are in '_config.yml'
 
-Images are in '/img/team/'
+Images are in '/img/pastors/'
 
 
 # Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+View the website in action [here](https://www.tlg-church.com/)
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
