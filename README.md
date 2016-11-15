@@ -5,19 +5,19 @@ The Living God Church Website Codebase
 
 ###Portfolio
 
-Portfolio projects are in '/_posts'
+Portfolio projects are in `/_posts`
 
-Images are in '/img/portfolio'
+Images are in `/img/portfolio`
 
 ###About
 
-Images are in '/img/about/'
+Images are in `/img/about/`
 
 ###Pastors
 
-Pastors and info are in '_config.yml'
+Pastors and info are in `_config.yml`
 
-Images are in '/img/pastors/'
+Images are in `/img/pastors/`
 
 
 # Demo
