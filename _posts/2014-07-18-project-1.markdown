@@ -4,8 +4,8 @@ subtitle: The Living God Church Basingstoke
 layout: default
 modal-id: 1
 date: 2009-04-16
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: church-silhouette.png
+thumbnail: church-silhouette.png
 alt: image-alt
 project-date: April 2009
 client: Start Bootstrap
